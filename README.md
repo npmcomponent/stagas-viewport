@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [stagas/viewport](http://github.com/stagas/viewport). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/stagas-viewport`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Viewport Component
 
 Viewport is a component to ease viewport management. You can get the dimensions of the viewport and beyond, which can be quite helpful to perform some checks with JavaScript.

@@ -1,0 +1,16 @@
+{
+  "name": "stagas-viewport",
+  "description": "Gets the dimensions of the Viewport and beyond",
+  "version": "0.1.0",
+  "keywords": [
+    "viewport",
+    "dimensions",
+    "device",
+    "window",
+    "coordinates"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}

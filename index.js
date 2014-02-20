@@ -2,7 +2,7 @@
 /**
  * Module dependencies.
  */
-var Emitter = require('emitter'),
+var Emitter = require('component-emitter'),
     win = window,
     doc = win.document,
     docEl = doc.documentElement,
